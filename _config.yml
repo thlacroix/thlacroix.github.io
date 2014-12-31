@@ -13,4 +13,4 @@ github_username:  thlacroix
 
 # Build settings
 markdown: kramdown
-highlighter: pygment
+highlighter: pygments

@@ -1,14 +1,16 @@
 # Site settings
-title: Un blog sur les usages de docker sur AWS
+title: Autour des containers
 email: thomas.lacroix@cloudreach.fr
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Un blog autour des containers: présentations, actualité, didacticiels,
+  tout ce que vous avez voulu savoir sur les technologies de containerisation,
+  et leur intégration avec le monde DevOps.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://docker.tlacroix.info" # the base hostname & protocol for your site
 twitter_username: ThomasLacroix
+twitter_company_username: Cloudreach
 github_username:  thlacroix
 
 # Build settings
 markdown: kramdown
+highlighter: pygment
